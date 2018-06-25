@@ -16,10 +16,10 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 This repo contains the following:
 
--**README**, overview of the course project.
--**CodeBook.md**, the code book, which describes the contents of the data set and othere relevant information needed in order to process output file
--**run_analysis.R**, the R scipt used that contains all commands used to process the data
--**tidy_data.txt**, processed data, project final output.
+- **README**, overview of the course project.
+- **CodeBook.md**, the code book, which describes the contents of the data set and othere relevant information needed in order to process output file
+- **run_analysis.R**, the R scipt used that contains all commands used to process the data
+- **tidy_data.txt**, processed data, project final output.
 
 # Study Design
 
