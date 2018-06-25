@@ -29,12 +29,12 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 The R script run_analysis.R contains commands used to process the clean data. It also contains comments to explain the process. 
 
 - Download and unzip Data from the source.
-- Read data data in R.
+- Read datain R.
 - Merge the training and the test data sets.
-- Limit needed data: mean and standard deviation for each measurement.
+- Limit needed data: mean and standard deviation.
 - Replace Labels of the Activity in the data set.
 - Label the data set with descriptive variable names.
-- Create a second, independent tidy set.
+- Create a second independent tidy set.
 - Write the data set to the tidy_data.txt file.
 
 R version 3.4.2 (2017-09-28) on Windows 7 64-bit edition. dplyr package (version 3.4.3 was used).
